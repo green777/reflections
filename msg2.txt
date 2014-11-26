@@ -1,1 +1,3 @@
 hello 2
+now it's 3
+edited msg2 for 2nd commit
